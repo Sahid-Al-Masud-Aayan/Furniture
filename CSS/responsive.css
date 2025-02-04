@@ -1,0 +1,141 @@
+
+@media (max-width: 575.98px) { 
+    span{
+        display: none;
+    }
+    .tograb{
+        display: block;
+    }
+    .reslogo{
+        width: 130px;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+    }
+    .navbar-brand{
+        padding: 0;
+    }
+    .menubar ul li a{
+    font-size: 21px;
+    transform: none !important;
+    }
+    .header-box{
+        /* width: 320px; */
+        border-radius: 10px;
+        background-color: #DFE9F4;
+        margin-top: 155px;
+        margin-left: 0px;
+        transform: scale(0.5);
+    }
+    .formycol{
+        display: flex;
+        flex-direction: column;
+    }
+    .main_for_color{
+        height: auto;
+        padding-bottom: 5px;
+    }
+    .headertext2{
+        font-size: 13px;
+    }
+    .imp-main-flex{
+        margin-left: 0;
+    }
+    .imagecon{
+        transform: scale(0.8);
+    }
+    .subtext3{
+        font-size: 12px;
+    }
+    .headertext3{
+        font-size: 24px;
+    }
+    .subtext4{
+        font-size: 16px;
+    }
+    .same2{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .subtext5{
+        margin-left: 20px;
+
+    }
+
+    .headertext4{
+        margin-left: 20px;
+        margin-top: 40px;
+    }
+    .secondbutton{
+        margin-left: 50px;
+        transform: scale(0.8);
+    }
+    .for_mb{
+        width: 100%;
+        margin-left: 20px;
+    }
+    .forgapping{
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    
+    }
+    .bg_for_blue{
+        margin-top: 98px;
+        
+    }
+    .headertext7{
+        font-size: 28px;
+    }
+    .subtext9{
+        font-size: 16px;
+    }
+    .data1{
+        width: 200px;
+        height: 70px;
+    }
+    .click1{
+        width: 90px;
+        height: 70px;
+    }
+    .footertext1{
+        padding-left: 10px;
+    }
+    .footertext2{
+        padding-left: 10px;
+    }
+    .footertext3{
+        padding-left: 10px;
+    }
+    .images{
+        margin-left: 23px;
+        display: flex;
+        gap: 21px;
+        flex-direction: column;
+    }
+}
+@media (min-width: 575.99px) and (max-width: 991.98px) { 
+    .header-box{
+        /* width: 320px; */
+        border-radius: 10px;
+        background-color: #DFE9F4;
+        margin-top: 155px;
+        margin-left: 0;
+        transform: scale(0.6);
+    }
+    .forgapping{
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    
+    }
+    
+    .headertext4{
+        margin-left: 20px;
+        margin-top: 40px;
+    }
+    .subtext5{
+        margin-left: 20px;
+
+    }
+}
